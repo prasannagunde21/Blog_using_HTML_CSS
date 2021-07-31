@@ -1,1 +1,1 @@
-# Blog_using_HTML_CSS
+# Beautiful 1 page blog
