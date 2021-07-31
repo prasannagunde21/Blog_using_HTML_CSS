@@ -1,0 +1,55 @@
+body {
+  background-image: url("background_image.jpg") ;
+  background-size: cover;
+}
+
+header {
+  padding-left: 250px;
+  padding-top: 30px;
+}
+
+main {
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
+footer {
+  position: absolute;
+  text-align: center;
+  left: 0;
+  bottom: 0;
+  background-color: burlywood;
+  color: white;
+  width: 99.5%;
+  height: 2.5rem;
+  padding: 3px 3px 15px 3px;
+}
+
+a:hover {
+  color: red;
+  transition: all ease 0.2s;
+}
+
+.heading {
+  color: whitesmoke;
+  font-size: 5em;
+}
+
+.description {
+  color: wheat;
+  font-size: 1.5em;
+}
+
+.date{
+  color: rgb(248, 198, 105);
+}
+
+.name{
+  color: rgba(247, 236, 217, 0.89);
+  font-size: 2.5em;
+}
+
+.content{
+  color: rgba(247, 218, 170, 0.89);
+  font-size: 1.2em;
+}
